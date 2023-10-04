@@ -15,4 +15,4 @@
 ## Examples of other valid options; For more, please view the user guide
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 
-java -jar RepoSense.jar --config ./configs
+java -jar RepoSense.jar --repos https://github.com/nus-cs3203/23s1-cp-spa-team-22.git
